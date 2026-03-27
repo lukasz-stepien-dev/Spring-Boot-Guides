@@ -1,0 +1,12 @@
+opencollection: 1.0.0
+info:
+  name: "Spring Boot Guides"
+  type: workspace
+
+collections:
+  - name: "Building a RESTful Web Service"
+    path: "collections/Building a RESTful Web Service"
+
+specs:
+
+docs: ''
